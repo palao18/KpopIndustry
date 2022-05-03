@@ -1,3 +1,10 @@
 body {
     background-image: url("bg2_75.png");
+      
+}
+.btn-info{
+    background-color: #c8b6ff !important;
+    color: white;
+    outline: none;
+    outline-width: 0px;
 }
